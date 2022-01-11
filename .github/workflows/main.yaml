@@ -25,6 +25,7 @@ jobs:
         rsync -avu --cvs-exclude --delete "./public/" "../josephklenk.github.io"
     - working-directory: josephklenk.github.io
       run: |
+        echo jklenk.com > CNAME
         git config --global user.email "josephklenk@yahoo.com"
         git config --global user.name "Joseph Klenk"
         git add .
