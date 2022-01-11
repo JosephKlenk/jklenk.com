@@ -95,27 +95,27 @@ author = "authors"
 
 [[params.social]]
 name = "Github"
-icon = "fa fa-2x fa-github"
+icon = "fa fa-2x fa-envelope"
 weight = 1
-url = "https://github.com/JosephKlenk/"
-
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
-weight = 2
-url = "https://gitlab.com/JosephKlenk/"
+url = "mailto:me@jklenk.com"
 
 [[params.social]]
 name = "YouTube"
 icon = "fa fa-2x fa-youtube"
-weight = 3
+weight = 2
 url = "https://www.youtube.com/channel/UCLQuDWVWlKUUDoKAyAXF8wg"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
-weight = 4
+weight = 3
 url = "https://twitter.com/josephklenk/"
+
+[[params.social]]
+name = "Patreon"
+icon = "fa fa-2x fa-patreon"
+weight = 4
+url = "https://patreon.com/josephklenk/"
 
 [[params.social]]
 name = "LinkedIn"
@@ -124,16 +124,16 @@ weight = 5
 url = "https://www.linkedin.com/in/josephklenk/"
 
 [[params.social]]
-name = "Patreon"
-icon = "fa fa-2x fa-patreon"
-weight = 6
-url = "https://patreon.com/josephklenk/"
-
-[[params.social]]
-name = "RSS"
+name = "Discord"
 icon = "fa fa-2x fa-discord"
 weight = 6
 url = "https://discord.gg/aqsxnY5y79"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 7
+url = "https://github.com/JosephKlenk/"
 
 [languages.en]
 languageName = ":uk:"
