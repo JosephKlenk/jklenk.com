@@ -1,0 +1,21 @@
+name: jklenk.com workflow
+on:
+  push:
+    branches:
+    - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: peaceiris/actions-hugo@v2
+      with:
+        extended: true
+    - uses: actions/checkout@v2
+      with:
+        submodules: true
+    - uses: actions/checkout@v2
+      with:
+        repository: josephklenk.github.io
+    - run: |
+        hugo
+        rsync -avu --cvs-exclude --delete "./public/" "../josephklenk.github.io"
