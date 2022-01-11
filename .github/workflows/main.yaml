@@ -16,6 +16,7 @@ jobs:
     - uses: actions/checkout@v2
       with:
         repository: josephklenk/josephklenk.github.io
-    - run: |
+    - working-directory: jklenk.com
+      run: | 
         hugo
         rsync -avu --cvs-exclude --delete "./public/" "../josephklenk.github.io"
