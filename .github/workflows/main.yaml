@@ -15,7 +15,7 @@ jobs:
         submodules: true
     - uses: actions/checkout@v2
       with:
-        repository: josephklenk.github.io
+        repository: josephklenk/josephklenk.github.io
     - run: |
         hugo
         rsync -avu --cvs-exclude --delete "./public/" "../josephklenk.github.io"
