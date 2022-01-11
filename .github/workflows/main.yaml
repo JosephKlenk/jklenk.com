@@ -22,6 +22,8 @@ jobs:
       run: | 
         hugo
         rsync -avu --cvs-exclude --delete "./public/" "../josephklenk.github.io"
+        git config --global user.email "josephklenk@yahoo.com"
+        git config --global user.name "Joseph Klenk"
         git add .
         git commit -m "$(date '+%Y-%m-%d %H:%M:%S')"
         git push
