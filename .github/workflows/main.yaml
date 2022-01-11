@@ -18,6 +18,7 @@ jobs:
       with:
         repository: josephklenk/josephklenk.github.io
         path: josephklenk.github.io
+        token: ${{ secrets.token }}
     - working-directory: jklenk.com
       run: | 
         hugo
