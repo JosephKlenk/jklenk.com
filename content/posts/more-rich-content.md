@@ -4,7 +4,7 @@ title = "Place Holder"
 date = "2019-03-09"
 description = "A brief description about Hugo Coder's Custom Shortcodes"
 tags = [
-    "shortcodes"
+    "credit cards"
 ]
 +++
 

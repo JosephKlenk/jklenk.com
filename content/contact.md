@@ -1,3 +1,7 @@
-# Contact Me
+# Contact
 
-For Business Purposes ONLY [me@jklenk.com](mailto:me@jklenk.com)  
+[me@jklenk.com](mailto:me@jklenk.com) (business inquiries only)
+
+
+
+
