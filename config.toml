@@ -13,8 +13,8 @@ disqusShortname = "Jklenk"
 
 [params]
 author = "Joseph Klenk"
-description = "Joseph Klenk's personal website"
-keywords = "blog,developer,personal"
+description = "A blog providing finacial education articles and a hub for Joseph Klenk's content creation."
+keywords = "blog,developer,personal finance"
 info = ["Personal Finance" "Software Engineer" "Minimalist"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "me@jklenk.com"
