@@ -10,11 +10,3 @@ creating a supportive and welcoming community of like minded individuals and cre
 about personal finance on TikTok and YouTube.
 
 {{< figure src="/images/avatar.jpg" title="Joseph Klenk" >}}
-
-```
-{
-  "firstName": "Joseph",
-  "lastName": "Klenk",
-  "age": 21
-}
-```
