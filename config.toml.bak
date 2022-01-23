@@ -8,6 +8,8 @@ pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
+# Enable Disqus comments
+disqusShortname = "Jklenk"
 
 [params]
 author = "Joseph Klenk"
