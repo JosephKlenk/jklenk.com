@@ -1,6 +1,6 @@
 +++
 author = "JosephKlenk"
-title = "Best Beginner Credit Cards for Teenagers"
+title = "Best Beginner Credit Cards for Beginners"
 date = "2022-01-22"
 description = "Credit Cards"
 tags = [
@@ -9,7 +9,4 @@ tags = [
 ]
 +++
 
-# Best Beginner Credit Cards for Teenagers
-
-
-
+# Best Beginner Credit Cards for Beginners
