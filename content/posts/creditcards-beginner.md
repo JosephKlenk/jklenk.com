@@ -10,6 +10,9 @@ tags = [
 +++
 
 # Best Beginner Credit Cards for Beginners
+[![Test Image](/images/tweet.png)](https://www.twitter.com/JosephKlenk) (public use)
+
+[TestLink](jklenk.com)
 
 
 
