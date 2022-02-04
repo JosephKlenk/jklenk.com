@@ -35,7 +35,7 @@ Then your spouse will use your link getting you both a bonus which sometimes is 
 | Public      | 100$ Deposit       | 28.41$       |   https://share.public.com/jklenk     |
 | BlockFi   | 10$ Depsoit        |     10$    | https://blockfi.com/?ref=b58547cd or Code b58547cd at sign up      |
 | Cashapp      | Sign Up       | 5$       |   https://cash.app/app/TKGNZVM or Code TKGNZVM at sign up     |
-| Personal Capital   | Connect Broker 1000$+        | 25$        | https://www.personalcapital.com/      |
+| Personal Capital   | Connect Broker 1000$+        | 25$        | https://pcap.rocks/brendan2      |
 | M1 Finance      | 100$ Deposit       | 50$       |   https://m1.finance/e1h5Z6RESzlZ     |
 | Uphold   | 250$ Depsoit        | 25$        | https://uphold.com/signup?referral=4631fef6cc      |
 | Sofi      | 100$ Deposit       | 25$       |   https://www.sofi.com/invite/invest?gcp=29462ced-675f-4d33-b28c-6354d71d2ca8     |
