@@ -12,7 +12,7 @@ enableEmoji = true
 [params]
 author = "Joseph Klenk"
 description = "A blog providing finacial education articles and a hub for Joseph Klenk's content creation."
-keywords = "blog,developer,personal finance"
+keywords = "blog,jklenk,personal finance, joseph klenk"
 info = ["Personal Finance" "Software Engineer" "Gamer"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "me@jklenk.com"
