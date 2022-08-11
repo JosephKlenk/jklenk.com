@@ -137,24 +137,39 @@ url = "https://github.com/JosephKlenk/"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "HOME"
 weight = 1
+url = ""
+
+[[languages.en.menu.main]]
+name = "ABOUT"
+weight = 2
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
-weight = 2
+name = "WORK WITH ME"
+weight = 3
+url = "https://www.fiverr.com/jklenk551"
+
+[[languages.en.menu.main]]
+name = "TOOLS"
+weight = 4
+url = "tools/"
+
+[[languages.en.menu.main]]
+name = "BLOG"
+weight = 5
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Github"
-weight = 3
-url = "https://github.com/josephklenk/"
+name = "CONTACT ME"
+weight = 6
+url = "contact/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
-weight = 4
-url = "contact/"
+name = "GITHUB PROJECTS"
+weight = 7
+url = "https://github.com/josephklenk/"
 
 # [[languages.en.menu.main]]
 # name = "Resume"
