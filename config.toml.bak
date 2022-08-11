@@ -167,7 +167,7 @@ weight = 6
 url = "contact/"
 
 [[languages.en.menu.main]]
-name = "GITHUB PROJECTS"
+name = "GITHUB"
 weight = 7
 url = "https://github.com/josephklenk/"
 
