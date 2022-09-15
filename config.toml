@@ -152,10 +152,10 @@ name = "ABOUT"
 weight = 2
 url = "about/"
 
-[[languages.en.menu.main]]
-name = "WORK WITH ME"
-weight = 3
-url = "https://www.fiverr.com/jklenk551"
+#[[languages.en.menu.main]]
+#name = "WORK WITH ME"
+#weight = 3
+#url = "https://www.fiverr.com/jklenk551"
 
 [[languages.en.menu.main]]
 name = "TOOLS"
