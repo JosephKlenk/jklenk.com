@@ -1,7 +1,7 @@
 [![Website][website-url]
 [![Ko-Fi][kofi-shield]][kofi-url]
 
-![Jklenk banner][banner]
+![jklenk.com][banner]
 
 # Jklenk.com
 

@@ -1,4 +1,3 @@
-[![Website][website-url]
 [![Ko-Fi][kofi-shield]][kofi-url]
 
 ![jklenk.com][banner]
