@@ -3,9 +3,7 @@ title: "Contact"
 date: "2022-10-25"
 ---
 You can contact us here!
-<head>
-<meta http-equiv="Content-Security-Policy" content="form-action 'https://forms.un-static.com/forms/5557b45dd9d0369cc1117832f8c2bc957455acd4'" />
-</head>
+
 <form method="post" action="https://forms.un-static.com/forms/5557b45dd9d0369cc1117832f8c2bc957455acd4">
   <div class="form-group row">
     <label for="name" class="col-4 col-form-label">Name</label>
