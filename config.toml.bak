@@ -181,3 +181,6 @@ url = "https://github.com/josephklenk/"
 # name = "Resume"
 # weight = 99
 # url = "resume/"
+
+[markup.goldmark.renderer]
+unsafe= true
