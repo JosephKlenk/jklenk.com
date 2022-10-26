@@ -70,7 +70,8 @@ id = "G-4PG4NBJN55"
 [params.csp]
 childsrc = ["'self'"]
 fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
-formaction = ["'self'"]
+form-action = ["'self'", "https://forms.un-static.com/forms/5557b45dd9d0369cc1117832f8c2bc957455acd4"]
+formaction = ["'self'", "https://forms.un-static.com/forms/5557b45dd9d0369cc1117832f8c2bc957455acd4"]
 framesrc = ["'self'"]
 imgsrc = ["'self'"]
 objectsrc = ["'none'"]
@@ -151,11 +152,6 @@ url = ""
 name = "ABOUT"
 weight = 2
 url = "about/"
-
-#[[languages.en.menu.main]]
-#name = "WORK WITH ME"
-#weight = 3
-#url = "https://www.fiverr.com/jklenk551"
 
 [[languages.en.menu.main]]
 name = "TOOLS"
