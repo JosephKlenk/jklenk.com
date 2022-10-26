@@ -1,9 +1,8 @@
-# Contact Me
-
-[me@jklenk.com](mailto:me@jklenk.com) (business inquiries only)
-
-
-
+---
+title: "Contact"
+date: "2022-10-25"
+---
+You can contact us here!
 
 <form method="post" action="https://forms.un-static.com/forms/5557b45dd9d0369cc1117832f8c2bc957455acd4">
   <div class="form-group row">
@@ -39,3 +38,7 @@
       <button name="submit" type="submit" class="btn btn-primary">Send</button>
     </div>
   </div>
+  <div class="text-center">
+    <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
+  </div>
+</form>
