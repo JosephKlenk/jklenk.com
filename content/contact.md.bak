@@ -38,7 +38,4 @@ You can contact us here!
       <button name="submit" type="submit" class="btn btn-primary">Send</button>
     </div>
   </div>
-  <div class="text-center">
-    <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
-  </div>
 </form>
