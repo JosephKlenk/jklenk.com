@@ -41,7 +41,6 @@ Then your spouse will use your link getting you both a bonus which sometimes is 
 | Sofi      | 100$ Deposit       | 25$       |   https://www.sofi.com/invite/invest?gcp=29462ced-675f-4d33-b28c-6354d71d2ca8     |
 | Celsius   | 100$ Depsoit        | 50$        | https://celsiusnetwork.app.link/1495911870 or Code at sign up on website 1495911870.      |
 | Voyager      | 100$ Deposit     | 25$       |   https://voyager.onelink.me/WNly/referral?af_sub5=D5B52739D or Code at sign up on website D5B52739D.|
-| FTX/Blockfolio      | 10$ Deposit       | 10$       |   https://link.blockfolio.com/9dzp/229a1a00 or Code at sign up Jklenk.     |
 
 *In Depth Explanation and information provided below*
 
@@ -129,10 +128,6 @@ https://voyager.onelink.me/WNly/referral?af_sub5=D5B52739D.
 Code at sign up on website **D5B52739D**.  
 (I received 25$)
 
-On FTX/Blockfolio you will need to use the link below.  
-https://link.blockfolio.com/9dzp/229a1a00.  
-Code at sign up on website **Jklenk**.  
-(I received 10$)
 
 ## **Running Total 980.08$**
 Without Credit Card and Checkings Account Offers Running Total is 480.08$.  
