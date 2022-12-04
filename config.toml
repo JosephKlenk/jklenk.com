@@ -94,7 +94,7 @@ tag = "tags"
 author = "authors"
 
 [[params.social]]
-name = "Github"
+name = "Email"
 icon = "fa fa-2x fa-envelope"
 weight = 1
 url = "mailto:me@jklenk.com"
@@ -103,7 +103,7 @@ url = "mailto:me@jklenk.com"
 name = "YouTube"
 icon = "fa fa-2x fa-youtube"
 weight = 2
-url = "https://www.youtube.com/channel/UCLQuDWVWlKUUDoKAyAXF8wg"
+url = "https://www.youtube.com/@JosephKlenk"
 
 [[params.social]]
 name = "Twitter"
@@ -112,7 +112,7 @@ weight = 3
 url = "https://twitter.com/josephklenk/"
 
 [[params.social]]
-name = "Twitter"
+name = "Instagram"
 icon = "fa fa-2x fa-instagram"
 weight = 3
 url = "https://www.instagram.com/joseph.klenk/"
