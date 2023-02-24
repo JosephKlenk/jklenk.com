@@ -1,7 +1,7 @@
 +++
 author = "JosephKlenk"
 title = "Best Beginner Credit Cards for Beginners"
-date = "2022-12-23"
+date = "2025-12-23"
 description = "Credit Cards"
 tags = [
     "beginners",
